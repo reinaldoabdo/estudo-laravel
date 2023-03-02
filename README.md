@@ -1,2 +1,3 @@
 # estudo-laravel
-Estudo de Laravel
+Este é apenas um estudo de Laravel.
+
